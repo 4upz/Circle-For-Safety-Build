@@ -1,0 +1,22 @@
+{
+  "name": "circle-for-safety-build",
+  "version": "1.0.0",
+  "description": "Circle for Safety Browser Application, First Public Release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4upz/Circle-For-Safety-Build.git"
+  },
+  "author": "Arik Stewart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4upz/Circle-For-Safety-Build/issues"
+  },
+  "homepage": "https://github.com/4upz/Circle-For-Safety-Build#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
